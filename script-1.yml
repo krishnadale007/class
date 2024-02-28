@@ -1,0 +1,11 @@
+fruits:
+  ---
+  - name: apple
+    color: red
+    quantity: 5
+  - name: banana
+    color: yellow
+    quantity: 3
+  - name: orange
+    color: orange
+    quantity: 7
