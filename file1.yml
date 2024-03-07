@@ -1,5 +1,5 @@
 ---
-- name: gether fats example one
+- name: gether fact example one
   hosts: all
   become: true
   gether_facts: yes
