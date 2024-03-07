@@ -1,0 +1,9 @@
+---
+- name: gether fats example one
+  hosts: all
+  become: true
+  gether_facts: yes
+  tasks:
+    - name: first gether fact
+      debug:
+        msg: this first trial
